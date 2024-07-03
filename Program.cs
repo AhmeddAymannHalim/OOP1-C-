@@ -158,7 +158,7 @@ namespace OOP1
             #endregion
 
             //********************************************************************\\
-            #region -6
+            #region -6-Create a struct called "Point" to represent a 2D point with properties "X" and "Y". Write a C# program that takes two points as input from the user and calculates the distance between them.
             //Console.WriteLine("Please Enter Two Points To Calculate distance Between Them\n");
             //Console.WriteLine("****************************\n");
             //Console.WriteLine("Start With x1 and x2 Points");
