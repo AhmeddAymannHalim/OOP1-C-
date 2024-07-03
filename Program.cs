@@ -24,7 +24,7 @@ namespace OOP1
             #endregion
 
             //********************************************************************\\
-            #region -2
+            #region -2-Define a struct "Person" with properties "Name" and "Age". Create an array of three "Person" objects and populate it with data. Then, write a C# program to display the details of all the persons in the array.
             //Person[] arrOfObjects = new Person[3];
 
             //for (int i = 0; i < arrOfObjects.Length; i++)
