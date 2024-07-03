@@ -11,7 +11,7 @@ namespace OOP1
         static void Main(string[] args)
         {
 
-            #region -1
+            #region -1-Create an enum called "WeekDays" with the days of the week (Monday to Sunday) as its members. Then, write a C# program that prints out all the days of the week using this enum.
             //enum Days
             //    {
             //        Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
@@ -204,7 +204,7 @@ namespace OOP1
             #endregion
 
         }
-        
+
 
 
     }
