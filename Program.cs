@@ -179,7 +179,7 @@ namespace OOP1
             //********************************************************************\\
 
 
-            #region -7
+            #region -7-Create a struct called "Person" with properties "Name" and "Age". Write a C# program that takes details of 3 persons as input from the user and displays the name and age of the oldest person.
             //Person_7[] arrOfObjects = new Person_7[3];
             //bool flag;
             //for (int i = 0; i < arrOfObjects.Length; i++)
